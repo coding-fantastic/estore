@@ -4,8 +4,8 @@ astunparse==1.6.3
 backports.entry-points-selectable==1.1.0
 beautifulsoup4==4.8.2
 blinker
-Brlapi==0.7.0
-cachetools==4.2.2
+Brlapi
+cachetools
 certifi==2019.11.28
 chardet==3.0.4
 clang==5.0
